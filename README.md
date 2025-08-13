@@ -11,8 +11,8 @@ This project analyzes Zepto's product catalog and inventory data using SQL. The 
   - availableQuantity – Quantity available
   - discountedSellingPrice – Price after discount
   -	weightInGms – Product weight in grams
-  -	outOfStock – Stock availability flag
-  -	quantity – Quantity metric for sales
+  -	outOfStock – Boolean indicating stock status
+  -	quantity – Ordered quantity
   -	sku_id – Auto-incremented primary key
 ## Tools & Technologies Used
 - **Database:** MySQL
@@ -46,6 +46,7 @@ This project analyzes Zepto's product catalog and inventory data using SQL. The 
 - Bulk products often provide better price-per-gram value.
 - Certain categories dominate overall revenue contribution.
 - Inventory weight analysis highlights categories that require optimized storage space.
+- Discount strategies vary significantly across categories.
 ## Conclusion
 This SQL project demonstrates practical data cleaning, exploration, and analysis techniques for real-world retail datasets.
 The insights generated can help Zepto improve:
