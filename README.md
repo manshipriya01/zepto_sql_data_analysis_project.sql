@@ -41,6 +41,18 @@ This project analyzes Zepto's product catalog and inventory data using SQL. The 
 1. Import the dataset (`zepto.csv`) into MySQL.
 2. Run the SQL script `zepto-sql-data-analysis.sql` in MySQL Workbench.
 3. Review query outputs for insights.
+## Key Insights
+- High-MRP products being out of stock could result in lost sales.
+- Bulk products often provide better price-per-gram value.
+- Certain categories dominate overall revenue contribution.
+- Inventory weight analysis highlights categories that require optimized storage space.
+## Conclusion
+This SQL project demonstrates practical data cleaning, exploration, and analysis techniques for real-world retail datasets.
+The insights generated can help Zepto improve:
+- Stock Replenishment Strategies.
+- Pricing & Discount Decisions.
+- Revenue Optimization
+- Inventory Management Efficiency
 
 
 
