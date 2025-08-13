@@ -53,6 +53,7 @@ The insights generated can help Zepto improve:
 - Pricing & Discount Decisions.
 - Revenue Optimization
 - Inventory Management Efficiency
+  
 **Author:** Manshi Srivastava  
 **Role:** Data Analyst (Fresher)   
    **Year:** 2025  
