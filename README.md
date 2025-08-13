@@ -19,9 +19,9 @@ This project analyzes Zepto's product catalog and inventory data using SQL. The 
 -	**Language**: SQL
 -	**Dataset**: CSV imported into MySQL
 -	**Techniques**:
-  -	Data Cleaning (removing invalid prices, converting paise to rupees)
-  -	Data Exploration (counts, null checks, unique categories)
-  -	Business Analysis Queries
+  -   Data Cleaning (removing invalid prices, converting paise to rupees)
+  -   Data Exploration (counts, null checks, unique categories)
+  -	  Business Analysis Queries
 
 
 
