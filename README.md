@@ -14,6 +14,15 @@ This project analyzes Zepto's product catalog and inventory data using SQL. The 
   -	outOfStock – Stock availability flag
   -	quantity – Quantity metric for sales
   -	sku_id – Auto-incremented primary key
+## Tools & Technologies Used
+- **Database**: MySQL Workbench
+-	**Language**: SQL
+-	**Dataset**: CSV imported into MySQL
+-	**Techniques**:
+  -	Data Cleaning (removing invalid prices, converting paise to rupees)
+  -	Data Exploration (counts, null checks, unique categories)
+  -	Business Analysis Queries
+
 
 
 
