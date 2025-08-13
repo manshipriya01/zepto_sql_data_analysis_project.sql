@@ -9,7 +9,7 @@ This project analyzes Zepto's product catalog and inventory data using SQL. The 
   -	mrp – Maximum retail price
   -	discountPercent – Discount offered
   - availableQuantity – Quantity available
-	- discountedSellingPrice – Price after discount
+  - discountedSellingPrice – Price after discount
   -	weightInGms – Product weight in grams
   -	outOfStock – Stock availability flag
   -	quantity – Quantity metric for sales
