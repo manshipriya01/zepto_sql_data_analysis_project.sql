@@ -32,7 +32,7 @@ This project analyzes Zepto's product catalog and inventory data using SQL. The 
 - **Q1:** Found Top 10 best-value products based on discount percentage.
 - **Q2:** Identified High MRP products that are out of stock.
 - **Q3:** Estimated revenue for each product category.
-- **Q4:** Filtered expensive products (MRP > ₹500) with minimal discount.
+- **Q4:** Filtered Products with MRP > ₹500 and discount < 10%.
 - **Q5:** Ranked Top 5 categories with highest average discount.
 - **Q6:**  Calculated Price per gram for products above 100g.
 - **Q7:** Categorized products based on weight into Low, Medium and Bulk.
